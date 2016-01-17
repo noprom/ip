@@ -1,0 +1,6 @@
+.classpath
+*.swp
+.mymetadata
+.project
+.settings
+target/
